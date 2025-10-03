@@ -1,0 +1,3 @@
+- [x] Create index.html with basic structure
+- [x] Create styles.css for styling
+- [x] Test the landing page in browser (files created, ready to open)
